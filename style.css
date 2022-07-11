@@ -110,3 +110,32 @@ footer ul li
     color: black ;
     padding: 20px 75px;
 }
+.float-container{
+    border: 3px solid #fff;
+    padding: 20px;
+}
+.float-child{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    }
+    #sec-1 .box
+{
+    padding-top: 10%;
+    width: 110px;
+    margin-left: 700px;
+    margin-top: -55px;
+    border: solid white;
+    display: flex;
+    flex-direction: row;
+    color: red;
+    font-size: 20px;
+    justify-content: right;
+    align-items: right;
+
+}
+.btn2{
+    margin-top: 40px;
+    margin-left: 60px;
+    padding: 10px;
+}
