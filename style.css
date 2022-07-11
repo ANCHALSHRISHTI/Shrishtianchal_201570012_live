@@ -127,7 +127,7 @@ footer ul li
     margin-top: -55px;
     border: solid white;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     color: red;
     font-size: 20px;
     justify-content: right;
