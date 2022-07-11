@@ -1,4 +1,4 @@
-{
+*{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -116,7 +116,7 @@ footer ul li
 }
 .float-child{
     width: 50%;
-    float: right;
+    float: left;
     padding: 20px;
     }
     #sec-1 .box
